@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="image_percentage" format="float" type="dimen">0.7</item>
+    <dimen name="square_vertical_padding">8dp</dimen>
+    <dimen name="square_horizontal_padding">16dp</dimen>
+</resources>
