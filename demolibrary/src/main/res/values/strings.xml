@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Android Demo</string>
+    <string name="hint_title">Enter Title</string>
+    <string name="hint_note">Enter Note</string>
+    <string name="intent_title">Choose an Image</string>
+    <string name="add_location">Add Location</string>
+    <string name="view_location">View Location</string>
+    <string name="getting_location">Getting Location</string>
+    <string name="add_note">Add Note</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="settings">Settings</string>
+    <string name="floating_note_toggle">Floating Note Toggle</string>
+    <string name="message_location_added">Location Added</string>
+    <string name="message_note_created">Note Created</string>
+    <string name="message_note_deleted">Note Deleted</string>
+    <string name="message_note_updated">Note Updated</string>
+    <string name="error_note_created">Note could not be created.</string>
+    <string name="error">Error</string>
+    <string name="error_image">Image could not be loaded.</string>
+    <string name="error_data">Please enter a title and a note.</string>
+    <string name="error_overlay">Error: Floating notes have been disabled.</string>
+    <string name="error_permission_overlay">You have do not permission to use floating notes. Do you want to enable this feature?.</string>
+    <string name="error_permissions">You have denied permission to use images.</string>
+    <string name="error_gs">Please install Google Services to use location functionality.</string>
+    <string name="error_location">You have denied permission to use location.</string>
+    <string name="google_maps_api_key">AIzaSyAQqgyd481hknbB60ZzIzwBlTwXkJidP7g</string>
+    <string name="delete_note">Delete Note</string>
+    <plurals name="notes_selected">
+        <item quantity="one">%d Note Selected</item>
+        <item quantity="other">%d Notes Selected</item>
+    </plurals>
+</resources>
