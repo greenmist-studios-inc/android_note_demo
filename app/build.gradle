@@ -21,7 +21,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.lextech.androiddemo"
+        applicationId "com.greenmiststudios.androiddemo"
         minSdkVersion 21
         targetSdkVersion 23
         versionCode 1
