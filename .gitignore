@@ -51,3 +51,6 @@ androiddemowear/androiddemowear.iml
 app/app.iml
 gradle/.DS_Store
 gradle/wrapper/.DS_Store
+.idea
+demolibrary.iml
+build

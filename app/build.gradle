@@ -2,8 +2,8 @@ apply plugin: 'com.android.application'
 apply plugin: 'me.tatarka.retrolambda'
 
 android {
-    compileSdkVersion 23
-    buildToolsVersion '23.0.2'
+    compileSdkVersion 24
+    buildToolsVersion '24.0.0'
 
     signingConfigs {
         debug {
@@ -28,15 +28,42 @@ android {
         versionName "1.0"
         testInstrumentationRunner 'android.support.test.runner.AndroidJUnitRunner'
     }
+
     buildTypes {
         debug {
             signingConfig signingConfigs.debug
             debuggable true
+            minifyEnabled true
+            testProguardFiles 'proguard/test-proguard-rules.pro'
+            proguardFiles 'proguard/proguard-junit.pro'
+            proguardFiles 'proguard/proguard-library.pro'
+            proguardFiles 'proguard/proguard-butterknife-7.pro'
+            proguardFiles 'proguard/proguard-eventbus-2.pro'
+            proguardFiles 'proguard/proguard-glide.pro'
+            proguardFiles 'proguard/proguard-google-play-services.pro'
+            proguardFiles 'proguard/proguard-icepick.pro'
+            proguardFiles 'proguard/proguard-support-design.pro'
+            proguardFiles 'proguard/proguard-support-v7-appcompat.pro'
+            proguardFiles 'proguard/proguard-rules.pro'
+            proguardFiles getDefaultProguardFile('proguard-android.txt')
+
         }
+
         release {
             signingConfig signingConfigs.release
-            minifyEnabled false
-            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            minifyEnabled true
+            testProguardFiles 'proguard/test-proguard-rules.pro'
+            proguardFiles 'proguard/proguard-junit.pro'
+            proguardFiles 'proguard/proguard-library.pro'
+            proguardFiles 'proguard/proguard-butterknife-7.pro'
+            proguardFiles 'proguard/proguard-eventbus-2.pro'
+            proguardFiles 'proguard/proguard-glide.pro'
+            proguardFiles 'proguard/proguard-google-play-services.pro'
+            proguardFiles 'proguard/proguard-icepick.pro'
+            proguardFiles 'proguard/proguard-support-design.pro'
+            proguardFiles 'proguard/proguard-support-v7-appcompat.pro'
+            proguardFiles 'proguard/proguard-rules.pro'
+            proguardFiles getDefaultProguardFile('proguard-android.txt')
         }
     }
 
@@ -49,13 +76,13 @@ android {
 dependencies {
     compile fileTree(include: ['*.jar'], dir: 'libs')
     wearApp project(':androiddemowear')
-    compile 'com.android.support:appcompat-v7:23.2.1'
-    compile 'com.android.support:recyclerview-v7:23.2.1'
-    compile 'com.android.support:cardview-v7:23.2.1'
-    compile 'com.android.support:design:23.2.1'
-    compile 'com.google.android.gms:play-services-maps:8.4.0'
-    compile 'com.android.support:palette-v7:23.2.1'
-    compile 'com.google.android.gms:play-services:8.4.0'
+    compile 'com.android.support:appcompat-v7:24.0.0'
+    compile 'com.android.support:recyclerview-v7:24.0.0'
+    compile 'com.android.support:cardview-v7:24.0.0'
+    compile 'com.android.support:design:24.0.0'
+    compile 'com.google.android.gms:play-services-maps:9.0.2'
+    compile 'com.android.support:palette-v7:24.0.0'
+    compile 'com.google.android.gms:play-services:9.0.2'
     compile 'com.jakewharton:butterknife:7.0.1'
     compile 'frankiesardo:icepick:3.1.0'
     provided 'frankiesardo:icepick-processor:3.1.0'
@@ -63,7 +90,18 @@ dependencies {
     compile 'com.github.bumptech.glide:glide:3.6.1'
     compile 'de.greenrobot:eventbus:2.4.0'
     compile project(':demolibrary')
-    compile 'com.google.android.gms:play-services-wearable:8.4.0'
-    compile 'com.android.support.test.espresso:espresso-core:2.2.2'
-    compile 'com.android.support.test:runner:0.5'
+    compile 'com.google.android.gms:play-services-wearable:9.0.2'
+
+    androidTestCompile 'com.android.support.test.espresso:espresso-core:2.2.2'
+    androidTestCompile 'com.android.support.test:runner:0.5'
+
+    androidTestCompile 'com.android.support.test:runner:0.5'
+    androidTestCompile 'com.android.support.test.espresso:espresso-core:2.2.2'
+    androidTestCompile 'com.android.support.test.espresso:espresso-contrib:2.2.2'
+
+    // Espresso 2.2.2 has references to support library 23.1.1 so you have to deliberately add these libraries when running ui tests
+    androidTestCompile 'com.android.support:appcompat-v7:24.0.0'
+    androidTestCompile 'com.android.support:recyclerview-v7:24.0.0'
+    androidTestCompile 'com.android.support:cardview-v7:24.0.0'
+    androidTestCompile 'com.android.support:design:24.0.0'
 }

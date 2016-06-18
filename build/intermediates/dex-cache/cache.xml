@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/geoffpowell/android_note_demo/androiddemowear/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Users/geoffpowell/android_note_demo/androiddemowear/build/intermediates/pre-dexed/release/com.android.support-palette-v7-24.0.0_0f08936d152ff15c1d872bb29787116778b51a07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/geoffpowell/android_note_demo/androiddemowear/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/geoffpowell/android_note_demo/androiddemowear/build/intermediates/pre-dexed/release/internal_impl-24.0.0_b1417b2da9bdc52e2de8b43e787754b4007db6ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/geoffpowell/.gradle/caches/modules-2/files-2.1/nl.qbusict/cupboard/2.1.2/aa2654568535e3a29af7a3b86453b8ff85af6d12/cupboard-2.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="aa2654568535e3a29af7a3b86453b8ff85af6d12">
+        <dex dex="/Users/geoffpowell/android_note_demo/androiddemowear/build/intermediates/pre-dexed/release/cupboard-2.1.2_6a33dcefbbcd1f8fe7a5544a04977250f3ba3284.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/geoffpowell/android_note_demo/androiddemowear/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/Users/geoffpowell/android_note_demo/androiddemowear/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-24.0.0_fe5d14e4ebc9b75d95f13f5cac35636395ae1b48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/geoffpowell/android_note_demo/androiddemowear/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/geoffpowell/android_note_demo/androiddemowear/build/intermediates/pre-dexed/release/com.android.support-support-v4-24.0.0_1e33071dac960208cfa8c847e5808d6e0e7ad1e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/geoffpowell/android_note_demo/androiddemowear/build/intermediates/exploded-aar/com.android.support/design/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="/Users/geoffpowell/android_note_demo/androiddemowear/build/intermediates/pre-dexed/release/com.android.support-design-24.0.0_9b0f9ed4def10c7e04f94144af36e3a10de4358f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/geoffpowell/android_note_demo/androiddemowear/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="/Users/geoffpowell/android_note_demo/androiddemowear/build/intermediates/pre-dexed/release/com.google.firebase-firebase-common-9.0.2_95095b8bec88b7c60445908d79d6511e90e7be13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/geoffpowell/android_note_demo/androiddemowear/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="/Users/geoffpowell/android_note_demo/androiddemowear/build/intermediates/pre-dexed/release/com.android.support-recyclerview-v7-24.0.0_005009f99c70edfaf8ad6f250b3ae96f4848997c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/geoffpowell/android_note_demo/androiddemowear/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8dd49930e4f9dde1a42d37e362b9fea8b1b69c0d">
+        <dex dex="/Users/geoffpowell/android_note_demo/androiddemowear/build/intermediates/pre-dexed/release/com.android.support-cardview-v7-24.0.0_6fc493d08b4f65df0ea85af79f25d61f0ce90a18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/geoffpowell/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/geoffpowell/android_note_demo/androiddemowear/build/intermediates/pre-dexed/release/support-annotations-24.0.0_0007137cd353439d9909fc695cd02ffba302cfcf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/geoffpowell/android_note_demo/androiddemowear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="/Users/geoffpowell/android_note_demo/androiddemowear/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-basement-9.0.2_88b3d62e5ebe5f39eb756e976dee6da4ceb8dc21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/geoffpowell/android_note_demo/androiddemowear/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="764d32faf85bc6f7bd2cdcb3a70a482c1884fdd2">
+        <dex dex="/Users/geoffpowell/android_note_demo/androiddemowear/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-wearable-9.0.2_eeb3814c0830f96911a9d7f030fe802cc8f068ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/geoffpowell/.gradle/caches/modules-2/files-2.1/frankiesardo/icepick/3.1.0/5e1b3b33bafbff690ae8292f3ee021438fa1f7ef/icepick-3.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5e1b3b33bafbff690ae8292f3ee021438fa1f7ef">
+        <dex dex="/Users/geoffpowell/android_note_demo/androiddemowear/build/intermediates/pre-dexed/release/icepick-3.1.0_0fe456be5875f8637e38aa919d4a7159926e06e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/geoffpowell/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/Users/geoffpowell/android_note_demo/androiddemowear/build/intermediates/pre-dexed/release/butterknife-7.0.1_96f2f3fa07ce45e4944cfbd756683af267288e51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/geoffpowell/android_note_demo/androiddemowear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="/Users/geoffpowell/android_note_demo/androiddemowear/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-base-9.0.2_fb7842deaa21207593b96115c42ade227057d2d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/geoffpowell/android_note_demo/androiddemowear/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/Users/geoffpowell/android_note_demo/androiddemowear/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-24.0.0_6514a6e246645acf2b8ffdc0123248705d074336.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/geoffpowell/.gradle/caches/modules-2/files-2.1/nl.qbusict/cupboard/2.1.2/aa2654568535e3a29af7a3b86453b8ff85af6d12/cupboard-2.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="aa2654568535e3a29af7a3b86453b8ff85af6d12">
+        <dex dex="/Users/geoffpowell/android_note_demo/androiddemowear/build/intermediates/pre-dexed/release/cupboard-2.1.2_6a33dcefbbcd1f8fe7a5544a04977250f3ba3284.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/geoffpowell/android_note_demo/androiddemowear/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="40a6fbd08fdbb71c74751916201e5fd8694e16ca">
+        <dex dex="/Users/geoffpowell/android_note_demo/androiddemowear/build/intermediates/pre-dexed/release/com.google.android.support-wearable-1.4.0_bacbeb9618664dda020d927a8759a240a889696a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/geoffpowell/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.1/86b122e640af09b0723e1fa44083c354ba6d9089/glide-3.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="/Users/geoffpowell/android_note_demo/androiddemowear/build/intermediates/pre-dexed/release/glide-3.6.1_d12dedcf6ec7ee34e01463fdb403b92f9bb526a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/geoffpowell/.gradle/caches/modules-2/files-2.1/frankiesardo/icepick/3.1.0/5e1b3b33bafbff690ae8292f3ee021438fa1f7ef/icepick-3.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="5e1b3b33bafbff690ae8292f3ee021438fa1f7ef">
+        <dex dex="/Users/geoffpowell/android_note_demo/androiddemowear/build/intermediates/pre-dexed/release/icepick-3.1.0_0fe456be5875f8637e38aa919d4a7159926e06e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/geoffpowell/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.1/86b122e640af09b0723e1fa44083c354ba6d9089/glide-3.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="/Users/geoffpowell/android_note_demo/androiddemowear/build/intermediates/pre-dexed/release/glide-3.6.1_d12dedcf6ec7ee34e01463fdb403b92f9bb526a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/geoffpowell/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/Users/geoffpowell/android_note_demo/androiddemowear/build/intermediates/pre-dexed/release/butterknife-7.0.1_96f2f3fa07ce45e4944cfbd756683af267288e51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/geoffpowell/android_note_demo/androiddemowear/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="20e1a0f0de6276a5f36062b655f8b20f8cc00cc4">
+        <dex dex="/Users/geoffpowell/android_note_demo/androiddemowear/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-maps-9.0.2_4d8273d6215dd5c76f7d6347e0fb48e99d92c358.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/geoffpowell/android_note_demo/androiddemowear/build/intermediates/exploded-aar/android_note_demo/demolibrary/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d4fac3106f7921e19987f7ae508c4bc1402e2281">
+        <dex dex="/Users/geoffpowell/android_note_demo/androiddemowear/build/intermediates/pre-dexed/release/android_note_demo-demolibrary-unspecified_02389b2a895a80c0017d9f17ac2ecf66c3144d2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/geoffpowell/android_note_demo/androiddemowear/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="/Users/geoffpowell/android_note_demo/androiddemowear/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-tasks-9.0.2_b877deacd0585c4a41673074cf01516f8055cd52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/geoffpowell/android_note_demo/androiddemowear/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/Users/geoffpowell/android_note_demo/androiddemowear/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-24.0.0_48b0f8316d98a2d1e3dc69de66f704c97e4b066a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/geoffpowell/android_note_demo/androiddemowear/build/intermediates/exploded-aar/android_note_demo/demolibrary/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8cea9fbb7db0b212a188549f4a809956c37f286f">
+        <dex dex="/Users/geoffpowell/android_note_demo/androiddemowear/build/intermediates/pre-dexed/release/android_note_demo-demolibrary-unspecified_02389b2a895a80c0017d9f17ac2ecf66c3144d2e.jar" />
+    </item>
+
+</items>
